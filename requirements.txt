@@ -1,0 +1,4 @@
+streamlit
+hazm
+transformers
+torch
